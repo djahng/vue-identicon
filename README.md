@@ -1,5 +1,7 @@
 # Vue Identicon Generator
 
+Demo it here [https://pensive-sinoussi-37e10b.netlify.com/](https://pensive-sinoussi-37e10b.netlify.com/)
+
 ## About
 
 This is a simple Vue.js project that generats identicons like the default generated user avatars on Stack Overflow.
