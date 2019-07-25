@@ -6,6 +6,8 @@ This is a simple Vue.js project that generats identicons like the default genera
 
 This is a single page app that demonstrates component separation, application level state management, and the passing/emitting of prop values.
 
+Bootstrap and custom CSS styling.
+
 ## Project setup
 ```
 npm install
